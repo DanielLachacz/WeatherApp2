@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApp2</string>
+    <string name="find_a_location">Find a location</string>
+</resources>
